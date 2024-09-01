@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "c:\\Users\\User\\projects\\cilia\\cilia.Server\\..\\cilia.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
