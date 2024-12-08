@@ -1,0 +1,24 @@
+@import ../../../variables
+:host
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+  align-items: center
+  gap: 64px
+  img
+    width: 50%
+    max-height: 388px
+    height: 100%
+  div
+    width: 50%
+    display: flex
+    flex-direction: column
+    justify-content: flex-start
+    gap: 48px
+    span
+      display: flex
+      flex-direction: column
+      justify-content: flex-start
+      gap: 16px
+      p
+        @include p()

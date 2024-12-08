@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj": {}
+    "C:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj": {
+    "C:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj",
+        "projectUniqueName": "C:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj",
         "projectName": "cilia.Server",
-        "projectPath": "c:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj",
+        "projectPath": "C:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\projects\\cilia\\cilia.Server\\obj\\",
+        "outputPath": "C:\\Users\\User\\projects\\cilia\\cilia.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

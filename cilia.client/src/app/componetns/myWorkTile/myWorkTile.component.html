@@ -1,0 +1,12 @@
+@if (props) {
+	<div>
+		<span><img [src]="props.img" [alt]="props.alt" /></span>
+		<div>
+			<h3>{{ props.title }}</h3>
+			<p>{{ props.text }}</p>
+		</div>
+	</div>
+	<app-link-btn [link]="props.link" styleBtn="font-size: 32px; width: 100%"
+		>Заказать</app-link-btn
+	>
+}

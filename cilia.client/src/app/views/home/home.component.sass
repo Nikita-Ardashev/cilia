@@ -1,0 +1,46 @@
+@import ../../../variables
+
+:host
+    display: flex
+    flex-direction: column
+    > section
+        @include paddingSide(128px, 128px)
+        display: flex
+        flex-direction: column
+        align-items: stretch
+        gap: 96px
+        background: $bg-second
+        &:nth-child(even)
+            background: $bg-first
+        h2
+            width: 100%
+            text-align: center
+
+    .heading
+        justify-content: flex-start
+        padding-top: 324px
+        padding-bottom: 324px
+        > div
+            display: flex
+            flex-direction: column
+            gap: 64px
+            max-width: 832px
+            p
+                @include p()
+
+    .advantage
+        > div
+            display: flex
+            flex-direction: row
+            justify-content: space-between
+
+    .works
+        > div
+            display: flex
+            flex-direction: row
+            justify-content: space-between
+            gap: 64px
+
+    .services
+
+    .feedback

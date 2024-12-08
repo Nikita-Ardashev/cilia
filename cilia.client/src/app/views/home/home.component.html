@@ -1,0 +1,28 @@
+<section id="heading" class="heading">
+	<div>
+		<h1>Headline</h1>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+			incididunt ut labore et dolore magna aliqua.
+		</p>
+		<app-link-btn class="" link="#feedback">Записаться на курс</app-link-btn>
+	</div>
+</section>
+<section id="advantage" class="advantage">
+	<h2>Почему я?</h2>
+	<div>
+		<app-advantage-tile *ngFor="let prop of advantageData" [props]="prop" />
+	</div>
+</section>
+<section id="works" class="works">
+	<h2>Мои работы</h2>
+	<div>
+		<app-my-work-tile *ngFor="let prop of myWorkData" [props]="prop" />
+	</div>
+</section>
+<section id="services" class="services">
+	<h2>Услуги</h2>
+</section>
+<section id="feedback" class="feedback">
+	<h2>Обратная связь</h2>
+</section>

@@ -1,0 +1,32 @@
+$color-black: #000
+$color-white: #fff
+$color-gray: #0000001F
+
+$text-on-bg: #313638
+$text-heading: #242728
+
+$btn-bg: #242728
+$btn-text: #FDFDFC
+
+$bg-first: #FDFDFC
+$bg-second: #E0DFD5
+
+@mixin paddingSide($top: 0px, $bottom: 0px)
+    padding: 0 5%
+    padding-bottom: $bottom
+    padding-top: $top
+
+@font-face
+    font-family: 'Inter'
+    src: url("../public/assets/fonts/inter/Inter-VariableFont_opsz,wght.ttf")
+
+@font-face
+    font-family: 'UKIJ'
+    src: url("../public/assets/fonts/UKIJ Nasq/UKIJNsqZB.ttf")
+
+$font-Inter: 'Inter'
+$font-UKIJ: 'UKIJ'
+@mixin p($size: 24px, $weight: 400)
+    font-family: $font-Inter
+    font-size: $size
+    font-weight: $weight

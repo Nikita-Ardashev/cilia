@@ -33,3 +33,4 @@ C:\Users\User\projects\cilia\cilia.Server\obj\Debug\net8.0\refint\cilia.Server.d
 C:\Users\User\projects\cilia\cilia.Server\obj\Debug\net8.0\cilia.Server.pdb
 C:\Users\User\projects\cilia\cilia.Server\obj\Debug\net8.0\cilia.Server.genruntimeconfig.cache
 C:\Users\User\projects\cilia\cilia.Server\obj\Debug\net8.0\ref\cilia.Server.dll
+c:\Users\User\projects\cilia\cilia.Server\obj\Debug\net8.0\cilia.Server.sourcelink.json

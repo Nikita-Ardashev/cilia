@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Re07jXjmT4RwNrGqbXyNd+flESZGk9n58xMxTT+GNaphsGZh61IV8PnpsJvptDTCyOvbKdqlnhicFDnMowgHMw==",
+  "dgSpecHash": "0RzLawhx+Xj4BG66Dr+0MFdmhW2PPK6SrXTvXnaTMOTyfgrbMlALwFnCWPvGWJ7jB0GD5q5+vb+Ln+ek0DsTYA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj",
+  "projectFilePath": "C:\\Users\\User\\projects\\cilia\\cilia.Server\\cilia.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.8\\microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
